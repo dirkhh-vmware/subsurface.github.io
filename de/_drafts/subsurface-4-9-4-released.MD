@@ -8,7 +8,7 @@ previousVersion: 4.9.3
 ref: subsurface-4.9.4
 ---
 
-The Subsurface development team proudly announces the release {{ page.version }} of Subsurface, an open source dive log and dive planning program for Windows, Mac and Linux.
+Das Subsurfe-Entwicklingsteam ist stolz, die Version {{ page.version }} von Subsurface anzukündigen, einem Open-Source Tauchlogbuch und -Planungsprogramm für Windows, Mac und Linux.
 
 This release fixes a number of issues in {{ page.previousVersion }} and adds some major new features. Some of the changes in Subsurface {{ page.version }}:
 
